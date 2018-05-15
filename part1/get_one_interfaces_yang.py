@@ -20,7 +20,7 @@ PORT = 830
 USER = 'cisco'
 PASS = 'cisco'
 # XML file to open
-FILE = 'get_interfaces.xml'
+FILE = 'get_interface_gigabit3.xml'
 
 
 # create a main() method
